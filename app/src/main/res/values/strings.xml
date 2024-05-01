@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="lets_grow_more">Lets Grow More</string>
+    <string name="active">Active</string>
+    <string name="cured">Cured</string>
+    <string name="city_name">City Name</string>
+    <string name="total">Total</string>
+    <string name="upwards">upwards</string>
+    <string name="up">up</string>
+</resources>
